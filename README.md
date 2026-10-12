@@ -4,7 +4,7 @@ A collection of small Python programs I write while learning — exercises, expe
 
 ## What's in here
 
--OOP
+- OOP
 - Input/output practice
 - File handling
 - Error handling (`try`/`except`)
